@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# 👋 Hi, I'm Rohan G.
+👋 Hi, I'm Rohan Garad.
 
 ### 🚀 Aspiring Data Scientist | Data Analytics | Machine Learning | Python | SQL
 
