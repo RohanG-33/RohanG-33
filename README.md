@@ -105,7 +105,7 @@ A real-world inspired project focused on understanding delivery operations and p
 
 **Tech:** `Python` `Pandas` `NumPy` `SQL` `Scikit-learn` `Power BI`
 
-🔗 **[View Project →](YOUR_PROJECT_LINK)**
+🔗 **[View Project →](https://github.com/RohanG-33/food-delivery-analytics)**
 
 ---
 
@@ -264,7 +264,7 @@ I'm also open to collaborating on interesting **data-driven projects and open-so
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/rohangarad33/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
